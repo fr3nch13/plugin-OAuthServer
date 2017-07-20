@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-OAuthServer",
+	"description" : "CakePHP Plugin: OAuth 2.0 Server",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "OAuth", "Server"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "*",
+		"nih-fo/vendor-php-oauth2-server": "*"
+	}
+}
