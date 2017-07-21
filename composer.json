@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: OAuth 2.0 Server",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "OAuth", "Server"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
