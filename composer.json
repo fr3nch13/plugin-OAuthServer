@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-OAuthServer",
+	"name" : "fr3nch13/plugin-OAuthServer",
 	"description" : "CakePHP Plugin: OAuth 2.0 Server",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "OAuth", "Server"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "*",
-		"nih-fo/vendor-php-oauth2-server": "*"
+		"fr3nch13/plugin-utilities": "*",
+		"fr3nch13/vendor-php-oauth2-server": "*"
 	}
 }
